@@ -1,21 +1,60 @@
-his folder contains a selection of design work and prototypes that I have created in Figma.
+# Figma Designs
 
-The projects included here reflect my interest in building clean, practical, and user-focused digital experiences. My goal when designing is not only to make interfaces look good, but also to make them intuitive, structured, and easy to use.
+Welcome to this folder containing a selection of my Figma designs and prototypes.
 
-At the moment, this folder includes two projects:
+These projects reflect my interest in product design, user experience, and creating digital solutions that are both practical and visually clear. I enjoy working on interfaces that are simple, structured, and easy to use, while also thinking carefully about the purpose and logic behind each design.
 
-Project A – JiroVoyage
+---
 
-JiroVoyage is a concept focused on live Jira task tracking, combined with a chaser feature to help teams stay aligned and maintain momentum.
+## About This Folder
 
-It is designed for managers and team leads who want a simple and minimalistic way to monitor task progress, follow up on pending actions, and keep visibility over the work assigned across their teams.
+In this folder you will find design concepts and prototypes created in Figma.
 
-Project B – 3Zoner
+The work included here represents both design exploration and product thinking. Some projects are more focused on workflow and task management, while others are centered around productivity and user organization.
 
-3Zoner is an application idea that I am currently developing around the concept of focus and task management through three different zones.
+---
 
-The idea is to help users organize their responsibilities more clearly, prioritize better, and create a more intentional workflow by separating tasks into distinct focus areas.
+## Current Projects
 
-These projects represent both design exploration and product thinking, as I enjoy working not only on the visual side of an interface, but also on the logic, structure, and purpose behind it.
+### Project A – JiroVoyage
 
-More projects and iterations will be added over time.
+**JiroVoyage** is a concept built around live Jira task tracking, combined with a chaser feature to support follow-ups and team visibility.
+
+The idea behind this project is to give managers and team leads a minimalistic and practical way to:
+
+- track the progress of assigned tasks  
+- follow up on pending actions  
+- maintain visibility across team workflows  
+- support clearer and faster project monitoring  
+
+### Project B – 3Zoner
+
+**3Zoner** is an application idea that I am currently developing, focused on productivity, attention management, and task organization.
+
+The concept is based on dividing work into **three different zones**, helping users:
+
+- organize responsibilities more clearly  
+- manage priorities in a more intentional way  
+- improve focus across different types of tasks  
+- create a more structured workflow  
+
+---
+
+## Design Approach
+
+Across these projects, I aim to combine:
+
+- clean and minimal interface design  
+- practical user-centered thinking  
+- clear structure and navigation  
+- product ideas with real usability potential  
+
+I see design not only as making screens look good, but also as creating experiences that feel natural, useful, and purposeful.
+
+---
+
+## More Coming Soon
+
+This folder will continue to grow as I add new ideas, improvements, and future projects.
+
+More to come!
